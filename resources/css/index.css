@@ -1,0 +1,79 @@
+/* All Tags */
+
+body {
+  font-family: "Helvetica", sans-serif;
+  text-align: center;
+}
+
+
+/* Font Colour */
+
+h1,
+ul,
+.footer p,
+#designed,
+a {
+  color: white;
+}
+
+
+/* Font Size */
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+a {
+  font-size: 18px;
+}
+
+p {
+  font-size: 14px;
+}
+
+.footer p {
+  font-size: 11px;
+}
+
+
+/* Navigation */
+
+ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  line-height: 30px;
+}
+
+.footer p,
+.footer ul,
+.footer li {
+  display: inline;
+}
+
+
+/* Background */
+
+.header {
+  background-image: url(../images/the-flatiron-building.png);
+}
+
+#designed {
+  background-image: url(../images/the-flatiron-building.png);
+}
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+}
